@@ -116,6 +116,15 @@ class attention:
         tankingTime=0
         return tankingTime
 
+    def myStoryPath(self):
+        myStoryPath=0
+        preFlopStory=0;
+        flopStory=0
+        turnStory=0
+        riverStory=0
+        return myStoryPath;
+
+
 
 
 
