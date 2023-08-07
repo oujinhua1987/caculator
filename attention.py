@@ -1,4 +1,4 @@
-# flop/turn/river boardcards handtype HeroPosition holdcards  stack   villanPosition  potBB villanAction betsize potodd
+# flop/turn/river boardcards handtype HeroPosition holdcards  stack   villanPosition  potBB villanAction betsize potodd villanPlayerType
 import outs_calculator
 class attention:
 
